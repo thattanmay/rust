@@ -7,4 +7,6 @@ let mut vec = vec![1];
 // insert
 vec.push(val);
 
+vec.join(' ');
+
 ```
